@@ -1,0 +1,13 @@
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\DVDWebAPI.Data.dll
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\DVDWebAPI.Data.pdb
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\obj\Debug\DVDWebAPI.Data.csprojAssemblyReference.cache
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\obj\Debug\DVDWebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\obj\Debug\DVDWebAPI.Data.csproj.CopyComplete
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\obj\Debug\DVDWebAPI.Data.dll
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\obj\Debug\DVDWebAPI.Data.pdb
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\DVDWebAPI.Models.dll
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\DVDWebAPI.Models.pdb
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\Dapper.dll
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\Dapper.xml
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edison\Documents\GitHub\classroom-work-EdisonSand\DVDWebAPI_Database\DVDWebAPI\DVDWebAPI.Data\bin\Debug\Newtonsoft.Json.xml
